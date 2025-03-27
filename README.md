@@ -2,7 +2,7 @@
 
 Bienvenue dans le projet **Portail Intranet ESISA**, une application mobile développée avec **React Native** et **Expo** pour faciliter l'accès aux informations liées à l'ESISA. Ce portail permet aux utilisateurs de se connecter, de consulter des informations sur les événements, les documents, les réservations et bien plus encore.
 
-![Portail Intranet ESISA](./assets/images/image1.png)
+![Portail Intranet ESISA](../assets/images/image1.png)
 
 ## Table des matières
 
